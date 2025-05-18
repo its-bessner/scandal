@@ -31,6 +31,20 @@ Keine schriftliche Bestätigung, keine JIRA-Änderung, aber Erwartung. Und du ma
 
 ---
 
+### ✉️ Beispiel 4: "DU bist schuld"
+
+> "Dein Plugin verursacht Mailspam. Check das mal!"
+> 
+> 🕑 2h später...
+> "Nein, mein Plugin nutzt definitiv keine Mail-Schnittstelle."
+> 
+> "Ach, ich dachte."
+---
+
+Ganz häufig dann noch von einem "Aber woran liegt es denn dann?", begleitet. 😤
+
+![SCANDAL Inside](../badges/scandal-inside.svg)
+
 ### ⚠️ Bonuszitat
 
 > Wenn etwas mit "Kannst du mal schnell..." beginnt, heißt es im Klartext:  
